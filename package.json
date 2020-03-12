@@ -1,0 +1,22 @@
+{
+  "name": "test-froala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve:storybook": "start-storybook"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@storybook/react": "^5.3.14",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-froala-wysiwyg": "^3.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "babel-loader": "^8.0.6"
+  }
+}
