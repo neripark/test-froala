@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@storybook/react": "^5.3.14",
+    "@storybook/react": "^6.5.13",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-froala-wysiwyg": "^3.1.0"
